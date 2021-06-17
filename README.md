@@ -1,5 +1,5 @@
 # HealthCare
-# I have made this app for Kratin Drive Assesment.
+# I have made this app for Kratin Drive Assessment.
 
 Its a health care app for online appointments of patients with doctor.
 
