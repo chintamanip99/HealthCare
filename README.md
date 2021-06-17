@@ -20,3 +20,6 @@ Its a health care app for online appointments of patients with doctor.
 
 In this way , the whole appointment procedure can be easily done online.
 The technology stack used fo this app is : Django -REST Framework and React Js 
+
+# For installing the backend :
+
