@@ -26,7 +26,7 @@ The technology stack used fo this app is : Django -REST Framework and React Js
 2)run command: pip install -r requirements.txt
 3)Start django server : python manage.py runserver
 
-#For installing and running the frontend :
+# For installing and running the frontend :
 1)Open terminal in folder frontend
 2)run command: npm install
 3)Start Server : npm start
