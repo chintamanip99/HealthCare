@@ -5,7 +5,7 @@ Its a health care app for online appointments of patients with doctor.
 
  In this app:
  
- 1)Patient registers himself/herself in the app
+ 1)Patient registers himself/herself in the app 
  2)Patient sees the list of doctors with different specializations 
  3)Clicks on the doctor with whom he wants to book an appointment
  4)Fills the health complaint form 
