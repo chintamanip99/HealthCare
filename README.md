@@ -30,4 +30,3 @@ The technology stack used fo this app is : Django -REST Framework and React Js
 1)Open terminal in folder frontend  
 2)run command: npm install  
 3)Start Server : npm start  
-![image](https://user-images.githubusercontent.com/41703238/128500461-49f0f950-fbc5-4662-87da-f33fd09cdb76.png)
