@@ -1,5 +1,5 @@
 # HealthCare
-# I have made this app for Kratin Drive Assessment.
+# I have made this app for Demonstrating my skills in Django - React Js full stack development.
 
 Its a health care app for online appointments of patients with doctor.
 
